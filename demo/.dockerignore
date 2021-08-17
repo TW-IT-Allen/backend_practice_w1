@@ -1,0 +1,10 @@
+**/src
+**/.pom.xml
+**/.git
+**/.idea
+**/target/classes
+**/.settings
+**/.classpath
+**/.project
+**/.springBeans
+**/.md
